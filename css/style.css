@@ -1,0 +1,102 @@
+body {
+    background-color: #333333;
+}
+
+.esp1 {
+    background-color: red;
+    height: 27%;
+}
+
+.esp2 {
+    background-color: yellow;
+    height: 46%;
+}
+
+.esp3 {
+    background-color: red;
+    height: 27%;
+}
+
+.eau1 {
+    background-color: rgb(225, 0, 0);
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+
+.eau2 {
+    background-color: rgb(0, 115, 47);
+    width: 75%;
+    height: 33.33%;
+    float: left;
+}
+
+.eau3 {
+    background-color: white;
+    width: 75%;
+    height: 33.33%;
+    float: left;
+}
+
+.eau4 {
+    background-color: black;
+    width: 75%;
+    height: 33.33%;
+    float: left;
+}
+
+.bandera {
+    border: 1px solid black;
+    background-color: #ffffff;
+    height: 400px;
+    width: 600px;
+    margin: 20px;
+    position: relative;
+    float: left;
+}
+
+.dmc1 {
+    height: 180px;
+    width: 180px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.dmc2 {
+    height: 180px;
+    width: 375px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.dmc3 {
+    height: 180px;
+    width: 180px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.dmc4 {
+    height: 180px;
+    width: 375px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.jpn2 {
+    background-color: red;
+    bottom: 100px;
+    left: 200px;
+    right: 200px;
+    top: 100px;
+    position: absolute;
+    border-radius: 100px;
+}
